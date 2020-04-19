@@ -4,3 +4,5 @@ this script breaks cryptographic hash functions using brute force technique
 - to lunch the script type : java BruteForce.java MD2 2dc0371e782114d45b015fa45cc0d40b
 # screenshot
 ![](brute_force_att.PNG)
+
+explanation video : https://youtu.be/PkRsugxzQK4
